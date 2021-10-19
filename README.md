@@ -2,7 +2,7 @@
 - 👀 I’m interested in problem, and how to solve a problem.
 - 🌱 I’m currently learning problem of my life.
 - 💞️ I’m looking to collaborate on Vue, Codeigniter, Ionic, Android Development.
-- 📫 How to reach me https://linkr.bio/anggairhams
+- 📫 How to reach me https://anggairham.github.io/
 
 <!---
 Anggairham/Anggairham is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
